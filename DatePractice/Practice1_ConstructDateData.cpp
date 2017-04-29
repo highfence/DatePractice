@@ -1,4 +1,4 @@
-#define PRACTICE1
+#define PRACTICE
 #ifdef PRACTICE1
 
 #include "Common.h"

@@ -26,5 +26,8 @@
     <ClCompile Include="Practice1_ConstructDateData.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Practice2_GetTodayData.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
