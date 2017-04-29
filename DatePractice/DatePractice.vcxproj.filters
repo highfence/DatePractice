@@ -21,12 +21,18 @@
     <ClInclude Include="Common.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="ios.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Practice1_ConstructDateData.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="Practice2_GetTodayData.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Practice3_UseIsoWeek.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

@@ -1,4 +1,4 @@
-#define PRACTICE2
+#define PRACTICE
 #ifdef PRACTICE2
 #include "Common.h"
 #include "date.h"

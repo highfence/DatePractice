@@ -112,10 +112,12 @@
   <ItemGroup>
     <ClInclude Include="Common.h" />
     <ClInclude Include="date.h" />
+    <ClInclude Include="ios.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Practice1_ConstructDateData.cpp" />
     <ClCompile Include="Practice2_GetTodayData.cpp" />
+    <ClCompile Include="Practice3_UseIsoWeek.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
